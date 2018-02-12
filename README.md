@@ -1,6 +1,6 @@
-# DataScienceProjects
+# Machine Learning Projects
 
-This repo includes a few rudimentary data science projects.
+This repo includes a few rudimentary machine learning projects.
 
 ## Election Result Predictor
 
