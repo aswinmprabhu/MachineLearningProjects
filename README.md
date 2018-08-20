@@ -1,4 +1,4 @@
-# (Kaggle)[https://www.kaggle.com/aswinmprabhu]
+# [Kaggle](https://www.kaggle.com/aswinmprabhu)
 # Machine Learning Projects
 
 This repo includes a few rudimentary machine learning projects.
